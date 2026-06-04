@@ -1,1 +1,1 @@
-# VibeCoding
+# Denoiser Workflow
